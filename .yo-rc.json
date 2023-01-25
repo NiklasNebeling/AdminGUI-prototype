@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "klosebrothers"
+    },
+    "libraryName": "adminGui",
+    "generator-version": "4.0.1"
+  }
+}
